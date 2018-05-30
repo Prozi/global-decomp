@@ -4,7 +4,7 @@ require this library required for matter.js in node or browser
 
 # installation
 
-`npm i global-decomp --savve`
+`npm i global-decomp --save`
 
 # usage
 
