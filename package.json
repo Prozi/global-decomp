@@ -1,0 +1,20 @@
+{
+  "name": "global-decomp",
+  "version": "1.0.0",
+  "description": "require this library required for matter.js in node or browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo wow"
+  },
+  "keywords": [
+    "decomp",
+    "matterjs",
+    "global",
+    "nodejs"
+  ],
+  "author": "Jacek Pietal",
+  "license": "MIT",
+  "dependencies": {
+    "poly-decomp": "^0.2.1"
+  }
+}
